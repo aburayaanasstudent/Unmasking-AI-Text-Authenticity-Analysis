@@ -56,6 +56,6 @@ Feel free to use, distribute, and modify this code under the license terms.
 
 ## Contact
 For questions or suggestions, please open an issue or reach out directly:
-Email: your.email@example.com
+Email: aburayaanas@gmail.com
 If you find this project helpful, consider giving it a star ⭐ to show your support and help others discover it!
 
