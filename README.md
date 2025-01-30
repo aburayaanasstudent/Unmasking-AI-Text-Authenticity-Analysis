@@ -41,3 +41,14 @@
 ---
 
 ## Project Structure
+
+- **`data/`**: Holds the raw and/or preprocessed datasets.  
+- **`notebooks/`**: Jupyter notebooks providing step-by-step demonstrations for data exploration, feature extraction, and model training.  
+- **`src/`**: Core source code for data processing, feature extraction, model training, and utility functions.  
+- **`results/`**: Contains evaluation outputs like confusion matrices, reports, and feature importance plots.  
+- **`requirements.txt`**: Lists required Python packages.  
+- **`LICENSE`**: License details.  
+- **`README.md`**: Project documentation (this file).
+
+---
+
